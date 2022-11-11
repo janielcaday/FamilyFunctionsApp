@@ -1,4 +1,4 @@
-# FamilyFunctionsApp
+# Family Functions App - Team 14
 
 ## Contributors: 
 Brandon Po, Omotayo Rufai, Redell Raekwon Fair, Chloe Caday
