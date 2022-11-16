@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ParentHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/ParentChoreList"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        android:title="Chores List" />
+    <item
+        android:id="@+id/ParentWeek"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:title="Week" />
+    <item
+        android:id="@+id/ParentRewards"
+        android:icon="@drawable/ic_baseline_rewards_24"
+        android:title="Rewards" />
+    <item
+        android:id="@+id/ParentHistory"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History" />
+</menu>

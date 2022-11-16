@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ChildHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/ChildChores"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        android:title="My Chores" />
+    <item
+        android:id="@+id/ChildValidationCenter"
+        android:icon="@drawable/ic_baseline_rewards_24"
+        android:title="Validation Center" />
+</menu>
